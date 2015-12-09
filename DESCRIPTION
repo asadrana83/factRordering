@@ -3,8 +3,9 @@ Title: Level order reversing
 Version: 0.0.0.9000
 Authors@R: person("Rana", "Dastgir", email = "asadrana83@gmail.com", role = c("aut", "cre"))
 Description: The package takes the input factor and reverses the order of the levels.
-Depends:
+Depends: 
     R (>= 3.2.2)
 License: MIT+ file LICENSE
 LazyData: true
 RoxygenNote: 5.0.0
+Suggests: testthat
