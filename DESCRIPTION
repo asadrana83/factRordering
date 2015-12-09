@@ -8,4 +8,9 @@ Depends:
 License: MIT+ file LICENSE
 LazyData: true
 RoxygenNote: 5.0.0
-Suggests: testthat
+Suggests: testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+URL: https://github.com/asadrana83/factRordering
+BugReports: https://github.com/asadrana83/factRordering/issues
